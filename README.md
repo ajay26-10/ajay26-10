@@ -20,3 +20,5 @@
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=ajay26-10
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajay26-10&theme=dark&background=000000)](https://git.io/streak-stats)
+
