@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A blockchain enthusiast and a MERN stack developer</h3>
+<h3 align="center">Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay26-10&label=Profile%20views&color=0e75b6&style=flat" alt="ajay26-10" /> </p>
 
-- 🔭 I’m currently working on [Certichain App](https://github.com/ajay26-10/CertiChain-App)
+- Skillset - Ethereum, Aptos, Solidity, Move, DAO, Bridges, Smart Contracts
+
 
 - 📫 How to reach me **ajay007thampi@gmail.com**
 
